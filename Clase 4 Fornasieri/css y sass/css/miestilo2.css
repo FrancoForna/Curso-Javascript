@@ -1,0 +1,37 @@
+.miBody {
+  background-image: url("/Imagenesproyecto/fondoindex.jpg");
+  background-size: cover;
+  margin: 0%;
+  padding: 0%; }
+
+.cajaTexto {
+  padding-top: 100px;
+  width: 100%;
+  display: flex;
+  flex-flow: column wrap;
+  align-content: center; }
+  .cajaTexto .cajaTexto_1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 22px;
+    padding: 20px;
+    display: flex;
+    flex-flow: column wrap;
+    width: 45%;
+    align-content: center; }
+  .cajaTexto .cajaTexto_2 {
+    font-size: 22px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 20px;
+    display: flex;
+    flex-flow: column wrap;
+    width: 45%;
+    align-content: center; }
+
+.titulosH {
+  text-align: center;
+  letter-spacing: 10px;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif; }
+
+.naranja {
+  color: coral; }
